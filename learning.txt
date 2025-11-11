@@ -1,0 +1,7 @@
+What i have learnt from this course :
+git clone https://github.com/your-username/MyFirstRepo.git
+
+During pathway programme I've learnt how to be consistent and disciplined, being late in submitting a milestone can decrease your score: time matters a lot.
+git add learning.txt
+ git commit -m "Added learning.txt with course reflection"
+ git push origin main
